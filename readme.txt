@@ -101,6 +101,9 @@ Please use this to inform us about bugs, or make contributions via PRs.
 
 == Changelog ==
 
+= 1.6.15 - 2019-* =
+* Fix - Require billing address for virtual products when enabled
+
 = 1.6.14 - 2019-05-08 =
 * Fix - Failing checkout when no addons are used
 
